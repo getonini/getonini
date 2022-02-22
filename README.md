@@ -1,6 +1,8 @@
 # Guilherme Ernesto Tonini
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ernesto%20Tonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/getonini)](https://www.linkedin.com/in/getonini) 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ernesto%20Tonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/getonini)](https://www.linkedin.com/in/getonini)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermeetonini%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeetonini@gmail.com)](mailto:guilhermeetonini@gmail.com)
+
 
 ### Hi there 👋
 
