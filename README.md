@@ -6,6 +6,10 @@
 
 ### Hi there 👋
 
+**Technologies and Programming Languages:**
+
+<img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&labelColor=4B8BBE " alt="Python" />
+
 **Versioning and Communication:**
 
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-Gitlab-8C929D?logo=gitlab&logoColor=white&labelColor=8C929D" alt="Gitlab" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&labelColor=4A154B" alt="Slack" />
