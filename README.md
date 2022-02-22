@@ -1,5 +1,6 @@
 # Guilherme Ernesto Tonini
 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ernesto%20Tonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/getonini)](https://www.linkedin.com/in/getonini) 
 
 ### Hi there 👋
 
