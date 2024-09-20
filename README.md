@@ -1,4 +1,4 @@
-# Guilherme Ernesto Tonini
+# Guilherme Ernesto
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ernesto%20Tonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/getonini)](https://www.linkedin.com/in/getonini)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermeetonini%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeetonini@gmail.com)](mailto:guilhermeetonini@gmail.com)
@@ -9,6 +9,7 @@
 **Technologies and Programming Languages:**
 
 <img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&labelColor=4B8BBE " alt="Python" />
+<img src="https://img.shields.io/badge/-Java-D62B20?logo=java&logoColor=white&labelColor=007396" alt="Java" />
 
 **Versioning and Communication:**
 
